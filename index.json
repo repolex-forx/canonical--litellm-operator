@@ -1,0 +1,11 @@
+{
+  "org": "canonical",
+  "repo": "litellm-operator",
+  "versions": [
+    {
+      "commit": "0ec6f5a645d56a0a19bf7284c061db7b0990b238",
+      "tag": "",
+      "parsed_at": "2026-11-08T19:09:07.468324+00:00"
+    }
+  ]
+}
